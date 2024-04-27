@@ -95,7 +95,3 @@ The following site structure is used throughout these configs:
     └── public
 ```
 
-Feel free to customize and adapt these configurations to your specific needs. Happy hosting! 😊
-```
-
-Replace the placeholders (`yourdomain1.com`, `yourdomain2.com`, etc.) with your actual domain names and customize any other relevant details. You can then add this content to your GitHub repository's README.md file. If you have any other requests or need further assistance, feel free to ask! 😊
