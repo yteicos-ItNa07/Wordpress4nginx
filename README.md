@@ -1,4 +1,4 @@
-# Wordpress4nginxCertainly! Below is the GitHub README content for your WordPress Nginx configuration kit. You can include this in your repository's README.md file:
+# Wordpress4nginx
 
 ```markdown
 # WordPress Nginx Configuration Kit
